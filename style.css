@@ -15,9 +15,11 @@ body {
 }
 
 .logo {
-    width: 120px;
+    max-width: 100%;
+    width: 300px;
     margin-bottom: 20px;
 }
+
 
 h1 {
     font-size: 2.5em;
